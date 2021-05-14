@@ -1,0 +1,54 @@
+
+.descripcion{
+    background-color: pink;
+}
+
+.cabecera{
+    background-color: black;
+}
+
+.habilidades{
+    background-color: green;
+}
+
+.otros{
+    background-color:#193366;
+}
+
+.proyectos{
+    background-color:yellow;
+}
+
+.footer{
+    background-color:red;
+}
+
+.introduccion{
+    text-align: center;
+    color: blanchedalmond;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.logos{
+    height: 12rem;
+    width: 12rem;
+}
+
+.perfil{
+    border-radius: 50%;
+  }
+
+
+.col-4{
+  text-align: center;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
